@@ -1,13 +1,13 @@
 {
-  "name": "随便",
-  "description": "随便",
+  "name": "lgee",
+  "description": "lgee",
   "keywords": [
-    "随便"
+    "lerg"
   ],
   "env": {
     "PROTOCOL": {
       "description": "协议VMess或VLESS，请填小写的vmess或vless",
-      "value": "vmess",
+      "value": "vless",
       "required": true
     },
     "UUID": {
@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/用户名/仓库名",
-  "repository": "https://github.com/用户名/仓库名",
+  "website": "https://github.com/yyhrd/lgew",
+  "repository": "https://github.com/yyhrd/lgew",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
